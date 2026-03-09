@@ -50,5 +50,13 @@ Predicted Power Consumption: 35413 kW
 - Energy consumption dashboard
 - Model optimization
 
+## Visualization
+
+### Power Consumption Trend
+![Power Trend](power_trend.png)
+
+### Actual vs Predicted Power Consumption
+![Prediction Graph](prediction_vs_actual.png)
+
 ## Author
 Karthik
